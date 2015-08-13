@@ -2,15 +2,15 @@
 
 namespace Org.Kevoree.Annotation
 {
-    class ChannelType: Attribute { }
-    class ComponentType : Attribute { }
-    class GroupType : Attribute { }
-    class Input : Attribute { }
-    class KevoreeInject : Attribute { }
-    class NodeType : Attribute { }
-    class Output : Attribute { }
-    class Param: Attribute { }
-    class Start : Attribute { }
-    class Stop : Attribute { }
-    class Update : Attribute { }
+    public class ChannelType: Attribute { }
+	public class ComponentType : Attribute { }
+	public class GroupType : Attribute { }
+	public class Input : Attribute { }
+	public class KevoreeInject : Attribute { }
+	public class NodeType : Attribute { }
+	public class Output : Attribute { }
+	public class Param: Attribute { }
+	public class Start : Attribute { }
+	public class Stop : Attribute { }
+	public class Update : Attribute { }
 }
