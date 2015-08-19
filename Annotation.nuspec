@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>org-kevoree-annotation</id>
+    <version>2.0.0</version>
+    <title>Kevoree Annotation</title>
+    <authors>Manuel Leduc</authors>
+    <owners>Kevoree</owners>
+    <licenseUrl>https://github.com/kevoree/kevoree-dotnet-annotation/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/kevoree/kevoree-dotnet-annotation</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/5556542?v=3&amp;s=200</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Annotation's definition for .net Kevoree type definitions.</description>
+    <releaseNotes>Change types visibility</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Kevoree Annotation</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/Annotation.dll" target="lib/net40/Annotation.dll" />
+  </files>
+</package>

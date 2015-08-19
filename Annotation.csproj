@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Annotation</RootNamespace>
     <AssemblyName>Annotation</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -39,8 +39,18 @@
     <Reference Include="System.Xml" />-->
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ChannelType.cs" />
+    <Compile Include="ComponentType.cs" />
+    <Compile Include="GroupType.cs" />
+    <Compile Include="Input.cs" />
+    <Compile Include="KevoreeInject.cs" />
+    <Compile Include="NodeType.cs" />
+    <Compile Include="Output.cs" />
+    <Compile Include="Param.cs" />
+    <Compile Include="Start.cs" />
+    <Compile Include="Stop.cs" />
+    <Compile Include="Update.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
