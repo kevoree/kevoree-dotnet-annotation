@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Org.Kevoree.Annotation
 {
-    interface DeployUnit
+    public interface DeployUnit
     {
     }
 }
