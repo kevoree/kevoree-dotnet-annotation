@@ -2,7 +2,7 @@ using System;
 
 namespace Org.Kevoree.Annotation
 {
-	[AttributeUsage (AttributeTargets.Field)]
+	[AttributeUsage (AttributeTargets.Method)]
 	public class Input : Attribute
 	{
 		private readonly bool optional;

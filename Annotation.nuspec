@@ -3,7 +3,7 @@
   <metadata>
     <id>org-kevoree-annotation</id>
 
-    <version>2.0.4</version>
+    <version>2.0.5</version>
     <title>Kevoree Annotation</title>
 
     <authors>Manuel Leduc</authors>
@@ -15,7 +15,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Annotation's definition for .net Kevoree type definitions.</description>
 
-    <releaseNotes>DeployUnit interface added and now public...</releaseNotes>
+    <releaseNotes>[amend] DeployUnit interface added and now public...</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>Kevoree Annotation</tags>
   </metadata>
