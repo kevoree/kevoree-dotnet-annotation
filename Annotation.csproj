@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DeployUnit.cs" />
+    <Compile Include="Dispatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ChannelType.cs" />
     <Compile Include="ComponentType.cs" />
