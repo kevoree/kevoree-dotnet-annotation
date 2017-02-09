@@ -3,7 +3,7 @@
   <metadata>
     <id>org-kevoree-annotation</id>
 
-    <version>2.0.6</version>
+    <version>5.4.0</version>
     <title>Kevoree Annotation</title>
 
     <authors>Manuel Leduc</authors>
@@ -20,6 +20,6 @@
     <tags>Kevoree Annotation</tags>
   </metadata>
   <files>
-    <file src="bin/Release/Annotation.dll" target="lib/net40/Annotation.dll" />
+    <file src="bin/Release/Annotation.dll" target="lib/net45/Annotation.dll" />
   </files>
 </package>
